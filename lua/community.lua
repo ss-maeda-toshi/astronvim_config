@@ -12,6 +12,7 @@ return {
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.colorscheme.vscode-nvim" },
   { import = "astrocommunity.editing-support.nvim-treesitter-endwise" },
+  { import = "astrocommunity.editing-support.rainbow-delimiters-nvim" },
   { import = "astrocommunity.code-runner.overseer-nvim" },
   { import = "astrocommunity.docker.lazydocker" },
   { import = "astrocommunity.recipes.heirline-mode-text-statusline" },
