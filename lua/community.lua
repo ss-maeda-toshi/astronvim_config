@@ -9,6 +9,7 @@ return {
   "AstroNvim/astrocommunity",
   { import = "astrocommunity.pack.python" },
   { import = "astrocommunity.pack.cpp" },
+  { import = "astrocommunity.pack.go" },
   { import = "astrocommunity.pack.lua" },
   { import = "astrocommunity.pack.rainbow-delimiter-indent-blankline" },
   { import = "astrocommunity.colorscheme.vscode-nvim" },
