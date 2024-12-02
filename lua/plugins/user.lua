@@ -82,4 +82,13 @@ return {
       )
     end,
   },
+  -- {
+  --   "mihyaeru21/nvim-lspconfig-bundler",
+  --   config = function(plugin, opts)
+  --     require "neovim/nvim-lspconfig"(plugin, opts)
+  --     require("lspconfig-bundler").setup {
+  --       only_bundler = true,
+  --     }
+  --   end,
+  -- },
 }
